@@ -8,5 +8,4 @@ Essa linha eu adcionei diretamentente no site ! que impressionante!!!
 
 Este paragrafo foi adicionado no desktop do Linux.
 
-Essa linha eu adicionei no windows
-
+Essa linha eu adicionei no windows 
